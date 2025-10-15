@@ -1,3 +1,6 @@
+![Playwright Tests](https://github.com/Wojciech094/workflow-repo-ca/actions/workflows/playwright.yml/badge.svg)
+![Vitest](https://github.com/Wojciech094/workflow-repo-ca/actions/workflows/vitest.yml/badge.svg)
+
 # Workflow Course Assignment
 
 This project demonstrates the use of workflow tools to improve code quality and testing automation.
